@@ -1,0 +1,11 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:LovePlusControlLibrary="clr-namespace:LovePlusControlLibrary;assembly=LovePlusControlLibrary" x:Class="winForceCrack"
+    Title="拖动进来显示，按住Ctrl托进来转换" xmlns:my="clr-namespace:NCGR查看器"   Height="353.354" Width="570.132" AllowDrop="True" SnapsToDevicePixels="True" UseLayoutRounding="True">
+    <Grid>
+        
+        <Image x:Name="ImgPreview" Margin="10"/>
+
+    </Grid>
+</Window>
